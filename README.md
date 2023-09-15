@@ -9,3 +9,4 @@ Here's a comprhensive list of all the minigames I have sorted so far:
  * Ice Fishing (both regular and grey mode)
  * Pizzatron 3000
  * Puffle Rescue
+ * Thin Ice

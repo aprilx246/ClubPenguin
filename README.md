@@ -1,2 +1,2 @@
-# ClubPenguin
-Club Penguin Minigames
+# Club Penguin
+

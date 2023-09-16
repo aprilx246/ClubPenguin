@@ -5,6 +5,7 @@ Currently, I'm unsure as to how to create games that are multiplayer as it's dif
 
 # Currently Working Games
 Here's a comprehensive list of all the minigames I have sorted so far:
+ * Aqua Grabber
  * Astro Barrier
  * Cart Surfer
  * Ice Fishing (both regular and grey mode)

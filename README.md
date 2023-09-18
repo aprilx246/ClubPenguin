@@ -10,5 +10,15 @@ Here's a comprehensive list of all the minigames I have sorted so far:
  * Cart Surfer
  * Ice Fishing (both regular and grey mode)
  * Pizzatron 3000
+ * PSA
+   * Case of the Missing Puffles
+   * G's Secret Mission
+   * Case of the Missing Coins
+   * Avalanche Rescue 
  * Puffle Rescue
  * Thin Ice
+
+# Cassie's Update - 18/09/23
+So I've now worked through most of the games and some of the missions, and I've had a pretty good idea. What if I could combine all of the missions into one big continuous mission that you can slowly progress through?
+
+Personally, I think I have the knowledge to create such a thing but I'd love to get some opinions.

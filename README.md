@@ -14,9 +14,19 @@ Here's a comprehensive list of all the minigames I have sorted so far:
    * Case of the Missing Puffles
    * G's Secret Mission
    * Case of the Missing Coins
-   * Avalanche Rescue 
+   * Avalanche Rescue
+   * Secret of the Fur
+   * Questions for a Crab
+   * Clockwork Repairs
+   * Mysterious Tremors
+   * Operation: Spy and Seek
+   * Waddle Squad
+   * The Veggie Villain
  * Puffle Rescue
  * Thin Ice
+
+# Cassie's Update - 19/09/23
+I have now finished working through all of the missions and have uploaded them, as far as I can tell there are no graphical glitches or load errors but if you find any be sure to let me know!
 
 # Cassie's Update - 18/09/23
 So I've now worked through most of the games and some of the missions, and I've had a pretty good idea. What if I could combine all of the missions into one big continuous mission that you can slowly progress through?

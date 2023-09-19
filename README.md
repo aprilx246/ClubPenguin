@@ -8,7 +8,7 @@ Here's a comprehensive list of all the minigames I have sorted so far:
  * Aqua Grabber
  * Astro Barrier
  * Cart Surfer
- * Ice Fishing (both regular and grey mode)
+ * Ice Fishing (both regular and grey mode bundled together)
  * Pizzatron 3000
  * PSA
    * Case of the Missing Puffles
@@ -24,6 +24,9 @@ Here's a comprehensive list of all the minigames I have sorted so far:
    * The Veggie Villain
  * Puffle Rescue
  * Thin Ice
+
+# Cassie's Update - 19/09/23 - 2
+Me again! Just a quick update to say I figured out the Ice Fishing files so both classic and grey mode can now both be played from one game file!!! Simply select grey mode on the main menu to catch those elusive grey fish :DDD I hope you're as excited about that as I am, waddle on!
 
 # Cassie's Update - 19/09/23
 I have now finished working through all of the missions and have uploaded them, as far as I can tell there are no graphical glitches or load errors but if you find any be sure to let me know!

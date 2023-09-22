@@ -25,6 +25,15 @@ Here's a comprehensive list of all the minigames I have sorted so far:
  * Puffle Rescue
  * Thin Ice
 
+# Games left to create
+Here's a list of all the minigames I think I can sort but haven't gotten around to yet:
+ * Bean Counters
+ * Catchin' Waves
+ * Card Jitsu - Sensei battle
+ * Dance Contest
+ * DJ3K
+ * Puffle Roundup
+
 # Cassie's Update - 19/09/23 - 2
 Me again! Just a quick update to say I figured out the Ice Fishing files so both classic and grey mode can now both be played from one game file!!! Simply select grey mode on the main menu to catch those elusive grey fish :DDD I hope you're as excited about that as I am, waddle on!
 

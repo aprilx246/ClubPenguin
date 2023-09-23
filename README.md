@@ -9,6 +9,7 @@ Here's a comprehensive list of all the minigames I have sorted so far:
  * Astro Barrier
  * Bean Counters
  * Cart Surfer
+ * Catchin' Waves
  * Ice Fishing (both regular and grey modes bundled together)
  * Pizzatron 3000
  * PSA

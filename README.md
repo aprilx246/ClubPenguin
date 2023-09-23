@@ -7,6 +7,7 @@ Currently, I'm unsure as to how to create games that are multiplayer as it's dif
 Here's a comprehensive list of all the minigames I have sorted so far:
  * Aqua Grabber
  * Astro Barrier
+ * Bean Counters
  * Cart Surfer
  * Ice Fishing (both regular and grey mode bundled together)
  * Pizzatron 3000
@@ -27,7 +28,6 @@ Here's a comprehensive list of all the minigames I have sorted so far:
 
 # Games left to create
 Here's a list of all the minigames I think I can sort but haven't gotten around to yet:
- * Bean Counters
  * Catchin' Waves
  * Card Jitsu - Sensei battle
  * Dance Contest

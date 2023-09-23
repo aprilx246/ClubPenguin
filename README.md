@@ -9,7 +9,7 @@ Here's a comprehensive list of all the minigames I have sorted so far:
  * Astro Barrier
  * Bean Counters
  * Cart Surfer
- * Ice Fishing (both regular and grey mode bundled together)
+ * Ice Fishing (both regular and grey modes bundled together)
  * Pizzatron 3000
  * PSA
    * Case of the Missing Puffles
@@ -28,11 +28,14 @@ Here's a comprehensive list of all the minigames I have sorted so far:
 
 # Games left to create
 Here's a list of all the minigames I think I can sort but haven't gotten around to yet:
- * Catchin' Waves
  * Card Jitsu - Sensei battle
  * Dance Contest
  * DJ3K
  * Puffle Roundup
+
+# Cassie's Update - 23/09/23
+All I've got in today's update is Catchin' Waves which I've gotten working pretty well (red puffle included). Lately, I've been working on another Club Penguin project so fixing the minigames hasn't been my main priority but I still want to get them all done. On a side note, I'd love to make the games all infinite loops. In OG Club Penguin when you finished a minigame you'd exit back to the island, get your coins, and move on with your life. But seeing as these minigames are separate you can't exit back to the island and usually, the games end with a white screen. I'm sure it must be possible to send you back to the beginning once you finish a game but it might take a lot of lines of code.
+Anyway, I'm sure I'll figure it all out soon enough!
 
 # Cassie's Update - 19/09/23 - 2
 Me again! Just a quick update to say I figured out the Ice Fishing files so both classic and grey mode can now both be played from one game file!!! Simply select grey mode on the main menu to catch those elusive grey fish :DDD I hope you're as excited about that as I am, waddle on!

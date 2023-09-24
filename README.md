@@ -24,7 +24,9 @@ Here's a comprehensive list of all the minigames I have sorted so far:
    * Operation: Spy and Seek
    * Waddle Squad
    * The Veggie Villain
+ * Puffle Launch
  * Puffle Rescue
+ * Puffle Roundup
  * Thin Ice
 
 # Games left to create
@@ -32,7 +34,10 @@ Here's a list of all the minigames I think I can sort but haven't gotten around 
  * Card Jitsu - Sensei battle
  * Dance Contest
  * DJ3K
- * Puffle Roundup
+
+# Cassie's Update - 24/09/23
+Today I've been working on cracking that infinite loop problem. Most games don't loop, you play, you win, the game exits out. It's a real issue if you're just playing them on your desktop because it means you have to reload the file every time. Most games being the key phrase.
+
 
 # Cassie's Update - 23/09/23
 All I've got in today's update is Catchin' Waves which I've gotten working pretty well (red puffle included). Lately, I've been working on another Club Penguin project so fixing the minigames hasn't been my main priority but I still want to get them all done. On a side note, I'd love to make the games all infinite loops. In OG Club Penguin when you finished a minigame you'd exit back to the island, get your coins, and move on with your life. But seeing as these minigames are separate you can't exit back to the island and usually, the games end with a white screen. I'm sure it must be possible to send you back to the beginning once you finish a game but it might take a lot of lines of code.

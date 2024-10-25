@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+    
+	<txt_startgame><![CDATA[START GAME]]></txt_startgame>
+	
+    <txt_choose><![CDATA[CHOOSE]]></txt_choose>
+    <txt_pname><![CDATA[YOUR PUFFLE]]></txt_pname>
+	
+	<txt_area1><![CDATA[BLUE SKY]]></txt_area1>
+    <txt_area2><![CDATA[SODA SUNSET]]></txt_area2>
+	<txt_area3><![CDATA[BOX DIMENSION]]></txt_area3>
+		
+	<txt_new><![CDATA[NEW]]></txt_new>
+			
+	<txt_buildcannon><![CDATA[Collect Puffle Os to build a Cannon.]]></txt_buildcannon>
+    <txt_buildcannonepic><![CDATA[Collect Puffle Os to build an Epic Cannon.]]></txt_buildcannonepic>
+	<txt_nextpart><![CDATA[Next Part]]></txt_nextpart>
+	
+	<txt_timetrial><![CDATA[Time Trial!]]></txt_timetrial>
+    <txt_theclock><![CDATA[Can you beat the clock?]]></txt_theclock>
+	<txt_besttime><![CDATA[Your best time is:]]></txt_besttime>
+	<txt_time1><![CDATA[New goal 35:00]]></txt_time1>
+    <txt_time2><![CDATA[New goal 25:00]]></txt_time2>
+	<txt_time3><![CDATA[New goal 18:00]]></txt_time3>
+	
+	<txt_dareturbo><![CDATA[Do you dare to go turbo?]]></txt_dareturbo>
+		
+	<txt_slomo><![CDATA[Hold A for sloooww motion]]></txt_slomo>
+	<txt_gamecomplete><![CDATA[Game Complete]]></txt_gamecomplete>
+	
+	<txt_good1><![CDATA[GOOD!]]></txt_good1>
+    <txt_good2><![CDATA[COOL!]]></txt_good2>
+	<txt_good3><![CDATA[SWEET!]]></txt_good3>
+	<txt_good4><![CDATA[AWESOME!]]></txt_good4>
+    <txt_shoot><![CDATA[Press spacebar TO LAUNCH]]></txt_shoot>
+	<txt_steer><![CDATA[Use arrows TO STEER]]></txt_steer>
+	<txt_steer2><![CDATA[Use arrows TO STEER in SLOW MOTION]]></txt_steer2>
+    <txt_checkpoint><![CDATA[CHECKPOINT!]]></txt_checkpoint>
+	<txt_aim><![CDATA[Use arrows TO AIM]]></txt_aim>
+	<txt_cloud><![CDATA[Some clouds have HIDDEN SECRETS!]]></txt_cloud>
+    <txt_sling2><![CDATA[Hold down arrow then let go TO LAUNCH]]></txt_sling2>
+	
+	<txt_newrecord><![CDATA[NEW BEST!]]></txt_newrecord>
+    <txt_total><![CDATA[TOTAL]]></txt_total>
+	<txt_part1><![CDATA[Earned Part 1 of 3!]]></txt_part1>
+	<txt_part2><![CDATA[Earned Part 2 of 3!]]></txt_part2>
+    <txt_part3><![CDATA[EARNED A NEW ITEM!]]></txt_part3>
+	
+	<txt_cpvisit><![CDATA[VISIT CLUB PENGUIN]]></txt_cpvisit>
+	<txt_cplink><![CDATA[http://play.clubpenguin.com/en/?oast=DOS_CP_CPVW_DCOM_CASUALGAME_2013EVER_BAC_EN_NAM_post&cmp=clp_bac_en_2013EVER_dcom_game_casualgame_extl]]></txt_cplink>
+
+</strings>

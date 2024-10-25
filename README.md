@@ -3,6 +3,8 @@ Hi there, my name is Cassie and I've been a fan of Club Penguin since I discover
 
 Currently, I'm unsure as to how to create games that are multiplayer as it's difficult to work around the code, but if you know more than me please drop me a message.
 
+To play any of the games, download the zip file go into their respective folder and open the swf file titled 'Play Me', open this file up with the flash player exe file at the root of the zip and the game should begin!
+
 # Currently Working Games
 Here's a comprehensive list of all the minigames I have sorted so far:
  * Aqua Grabber
